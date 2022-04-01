@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/random-streams-pareto-type1",
+  "version": "0.0.0",
+  "description": "Create a readable stream for generating pseudorandom numbers drawn from a Pareto (Type I) distribution.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/random-streams-pareto-type1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "prng",
+    "rng",
+    "pseudorandom",
+    "random",
+    "rand",
+    "pareto",
+    "type1",
+    "extreme value",
+    "power law",
+    "continuous",
+    "readable",
+    "stream",
+    "seed",
+    "seedable"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
